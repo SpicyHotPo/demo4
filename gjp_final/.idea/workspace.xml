@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5078b83d-bd3f-4c48-8825-72331f5be240" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lvOhhuIHwxq7gZJocRwwW7dzx1" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../gjp_final" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itheima.gjp.app.MainApp" />
+      <module name="gjp_final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itheima.gjp.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5078b83d-bd3f-4c48-8825-72331f5be240" name="Default Changelist" comment="" />
+      <created>1608474218614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608474218614</updated>
+      <workItem from="1608474224785" duration="824000" />
+      <workItem from="1608476575172" duration="4631000" />
+      <workItem from="1608509485773" duration="686000" />
+      <workItem from="1608511101569" duration="2555000" />
+      <workItem from="1608534777680" duration="913000" />
+      <workItem from="1608537820085" duration="1241000" />
+      <workItem from="1608570510905" duration="1108000" />
+      <workItem from="1608595475551" duration="1627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="138" key="FileChooserDialogImpl" timestamp="1608595835508">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="489" y="138" key="FileChooserDialogImpl/0.0.1418.759@0.0.1418.759" timestamp="1608595835508" />
+    <state width="1374" height="208" key="GridCell.Tab.0.bottom" timestamp="1608608496294">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="208" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1608608496294" />
+    <state width="1374" height="208" key="GridCell.Tab.0.center" timestamp="1608608496294">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="208" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1608608496294" />
+    <state width="1374" height="208" key="GridCell.Tab.0.left" timestamp="1608608496293">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="208" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1608608496293" />
+    <state width="1374" height="208" key="GridCell.Tab.0.right" timestamp="1608608496294">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="208" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1608608496294" />
+    <state x="189" y="0" key="SettingsEditor" timestamp="1608481837672">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="189" y="0" key="SettingsEditor/0.0.1418.759@0.0.1418.759" timestamp="1608481837672" />
+    <state x="407" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1608570510917">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="407" y="208" key="com.intellij.ide.util.TipDialog/0.0.1418.759@0.0.1418.759" timestamp="1608570510917" />
+  </component>
+</project>
